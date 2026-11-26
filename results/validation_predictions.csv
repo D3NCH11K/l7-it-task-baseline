@@ -1,0 +1,310 @@
+﻿record_id,text,true_label,predicted_label,correct,split
+0886b51a912feab1,Настроить responsive UI components,UI/UX,QA,False,validation
+3c668cb270879dfb,Настроить Helm-чарты с values overrides для env,DevOps,QA,False,validation
+7f99aec00ef85b93,Реализовать drag-and-drop для канбан-доски,FrontEnd,QA,False,validation
+62b9c38d9630e1e9,Реализовать тесты на производительность рендеринга,QA,QA,True,validation
+7d4db3b0ffbd7527,Пофиксить race condition в асинхронных тестах,QA,QA,True,validation
+ca460dcb89f1cdad,Пофиксить конфликты в global mocks,QA,QA,True,validation
+3f5a5b294d6f709c,Настроить MLflow tracking server с artifact storage,ML,QA,False,validation
+23198ee749280645,Пофиксить z-index overlay bugs через layer organization,UI/UX,QA,False,validation
+62956b67117b85bd,Оптимизировать model serialization via ONNX,ML,QA,False,validation
+a23a020d02c036c1,Пофиксить баги с cache headers в тестовых ответах,QA,QA,True,validation
+d3420d378856a252,Провести exploratory-тестирование фичи,QA,QA,True,validation
+cd3033b4e65c7788,Интегрировать Twilio для SMS-уведомлений,BackEnd,QA,False,validation
+3ff1b40e53e6c819,Реализовать responsive tables с collapsible rows,FrontEnd,QA,False,validation
+f034c3120487f04c,Настроить автоматическое создание тестовых аккаунтов,QA,QA,True,validation
+b90f264cc1688e77,Подключить систему уведомлений в углу экрана,FrontEnd,QA,False,validation
+e5fd2295e1441a70,Реализовать custom assertions для GraphQL ответов,QA,QA,True,validation
+fbdd50dee2fa169b,Настроить graceful shutdown с drain timeout,BackEnd,QA,False,validation
+036475c0d8378a1a,Оптимизировать responsive breakpoints,UI/UX,QA,False,validation
+7eb8d6f49c01e456,Пофиксить OIDC auth issues через token caching,DevOps,QA,False,validation
+3cd3ca9395b1611c,Добавить Linkerd service mesh,DevOps,QA,False,validation
+6f471d3351197138,Оптимизировать CLS через aspect-ratio контейнеры,FrontEnd,QA,False,validation
+d604b47f1f95d2a6,Подготовить active learning via uncertainty sampling,ML,QA,False,validation
+b716730cc9840e31,Пофиксить баг с дедлоками в транзакциях,BackEnd,QA,False,validation
+ea4568c2209e6999,Пофиксить таймауты при загрузке external services,QA,QA,True,validation
+aee6d89cadc79faf,Настроить авто-очистку тестовых данных,QA,QA,True,validation
+568af25111ed91e8,Настроить Vault с Kubernetes auth,DevOps,QA,False,validation
+a5ef3b5ef7b59607,Настроить Snyk integration для dependency scanning,DevOps,QA,False,validation
+8ad2aaee67bfa6a1,Настроить автоматические отчеты в Slack,QA,QA,True,validation
+452a1215f66dff8a,Оптимизировать startup probes через custom health endpoints,DevOps,QA,False,validation
+d1c0973e502d5730,Провести тест безопасности через SAST scanning,QA,QA,True,validation
+f0f059043fd02203,Добавить schema validation на gateway,BackEnd,QA,False,validation
+ec1046d561f7148a,Настроить experiment tracking с versioned configs,ML,QA,False,validation
+1b77566587cbce4b,Интеграция редактора кода в интерфейс,FrontEnd,QA,False,validation
+ec535505d177f125,Оптимизировать preprocessing-цепочку,ML,QA,False,validation
+85df3bd3db1561eb,Настроить изоляцию тестовых БД через transactions,QA,QA,True,validation
+77ee903d741aaf18,Настроить генерацию AsciiDoc-отчетов,QA,QA,True,validation
+a387497311a9fa9b,Пофиксить баг с сериализацией дат,BackEnd,QA,False,validation
+308c261aebd61724,Настроить генерацию тестовых данных,QA,QA,True,validation
+5349a96c9481de18,Настроить mirror-registry,DevOps,QA,False,validation
+96a3bbf91d9ffef3,Составить чек-лист для accessibility regression,QA,QA,True,validation
+e2f080712f462589,Настроить Helm-релизы с переменными,DevOps,QA,False,validation
+90c3fdceb1ea2424,Настроить web UI kit через responsive components,UI/UX,QA,False,validation
+353de222744eff69,Подготовить developer handoff documentation,UI/UX,QA,False,validation
+b1422a7e7fe79d11,Провести тестирование на разных девайсах,QA,QA,True,validation
+783f2169d770d083,Пофиксить ошибки в конфигурации тестового окружения,QA,QA,True,validation
+92a34c774ffecde0,Интегрировать React Query для синхронизации кэша,FrontEnd,QA,False,validation
+f2ff11d48c157686,Добавить support для multipart/form-data,BackEnd,QA,False,validation
+34fbf9d88a4117fe,Реализовать multi-step wizard с валидацией шагов,FrontEnd,QA,False,validation
+37d9d518312c2495,Реализовать CQRS with materialized views,BackEnd,QA,False,validation
+fa08afd5e5120db6,Пофиксить нестабильность из-за rate limiting,QA,QA,True,validation
+f10049a09f6b45c8,Настроить интеграцию с TestRail через API,QA,QA,True,validation
+c9d43d8d12a97ee0,Добавить pagination cursor-based,BackEnd,QA,False,validation
+35cf12a004abdf6c,Добавить поддержку Web Share API,FrontEnd,QA,False,validation
+e4bb14c2ce8d081e,Подготовить design pitch deck через presentation templates,UI/UX,QA,False,validation
+0f0138cde3e333a9,Провести usability тест через user recordings,QA,QA,True,validation
+1fac8057c9721a34,Пофиксить internal DNS resolution,DevOps,QA,False,validation
+7f6ef1193513795c,Оптимизировать ONNX-экспорт,ML,QA,False,validation
+efe942161533cbfd,Реализовать план восстановления данных,DevOps,QA,False,validation
+8b5c7516a1823067,Реализовать time-series GAN via TimeGAN,ML,QA,False,validation
+d82045da8feb53b9,Добавить request tracing headers,BackEnd,QA,False,validation
+e494481339bf3525,Отрепортить баг с disk I/O,QA,QA,True,validation
+cd59cc8564fa6dc9,Пофиксить баги с кодировкой ответов в multi-language тестах,QA,QA,True,validation
+0035e06a76c56769,Настроить cron-триггеры для nightly тестов,QA,QA,True,validation
+4c90a8481bd8f5e2,Настроить бэкапы с cross-region replication,DevOps,QA,False,validation
+b467384d008b9c60,Провести usability-тестирование нового флоу,QA,QA,True,validation
+b5600e815259cd98,Интегрировать OpenTelemetry для трейсинга,BackEnd,QA,False,validation
+dabfdd0ffaeda0ab,Настроить интеграцию с qTest Enterprise,QA,QA,True,validation
+d69b2bb649cd88af,Пофиксить encoding issues в тестах,QA,QA,True,validation
+55ea0c6bdc9564eb,Пофиксить numerical instability via log-sum-exp trick,ML,QA,False,validation
+8f9cd633c4d80399,Настроить обработку редиректов на клиенте,FrontEnd,QA,False,validation
+61e2709c5e5905e9,Провести exploratory testing с session-based approach,QA,QA,True,validation
+ec56bf2dca586658,Реализовать PWA-установку приложения,FrontEnd,QA,False,validation
+4c8258f0e6eed847,Реализовать тесты на производительность rendering,QA,QA,True,validation
+5e0497947d24ce67,Пофиксить race condition в optimistic locking,BackEnd,QA,False,validation
+a2d239722c1c1cc8,Настроить headless запуск Cypress,QA,QA,True,validation
+c5eb38b43ee6f28c,Подключить стейт-менеджмент для корзины,FrontEnd,QA,False,validation
+fe2a27777385cd25,Реализовать feature flags через environment variables,DevOps,QA,False,validation
+100f908a6d064151,Реализовать утилиты для API performance testing,QA,QA,True,validation
+cbcd3dee7594442b,Оптимизировать память через очистку слушателей,FrontEnd,QA,False,validation
+4020a86d1d0c3be8,Реализовать кастомный курсор,UI/UX,QA,False,validation
+f29149cd3d818d59,Настроить авто-генерацию тестовых юзеров,QA,QA,True,validation
+e095ebc7ff2eafa9,Настроить деплой в прод через GitLab CI,DevOps,QA,False,validation
+56a4aec03aa296b6,Пофиксить z-index конфликты в оверлеях,FrontEnd,QA,False,validation
+5ca093c4e840961d,Настроить registry для приватных артефактов,DevOps,QA,False,validation
+d76ebe5e587953ea,Реализовать multi-task via soft parameter sharing,ML,QA,False,validation
+dd97865f38e95eaf,Реализовать progressive delivery через Flagger,DevOps,QA,False,validation
+00b24eb8f75145f0,Настроить роутинг с динамическими импортами,FrontEnd,QA,False,validation
+9c18463587adce0b,Настроить метрики через Datadog,QA,QA,True,validation
+bc74f8648f09e0b6,Пофиксить проблемы с imbalanced classes,ML,QA,False,validation
+7ee96f11abec96b5,Прогнать регрессию после слияния веток,QA,QA,True,validation
+fa36e203c311aa6d,Добавить LIME explanations для local interpretability,ML,QA,False,validation
+d9595ec3e9be059a,Настроить компоненты для мультиязычности,UI/UX,QA,False,validation
+2e80b018c0a804b8,Добавить поддержку Geolocation API,FrontEnd,QA,False,validation
+9f55b34906228581,Реализовать idempotency для платежных вебхуков,BackEnd,QA,False,validation
+2fdfa3f5c90ae1b3,Провести k-fold валидацию,ML,QA,False,validation
+e9a235e5cb994bad,Пофиксить storage class provisioning,DevOps,QA,False,validation
+ebe44bcc9e44bc5b,Добавить precision-recall tradeoff analysis,ML,QA,False,validation
+b36204e2983878df,Реализовать approximate nearest neighbor search,ML,QA,False,validation
+f1865f455c1cbc8d,Реализовать pagination/sort тесты с edge cases,QA,QA,True,validation
+d2e4bda2914ec07e,Реализовать bulk-операции для массовой загрузки,BackEnd,QA,False,validation
+3c6f477548a58680,Настроить компонентную библиотеку в Figma,UI/UX,QA,False,validation
+f874ea5d49ad99d8,Настроить авто-ретест с different user roles,QA,QA,True,validation
+b5c3e0151955ee52,Пофиксить systemd conflicts,DevOps,QA,False,validation
+3e95d8bb899d3d83,Пофиксить target leakage,ML,QA,False,validation
+38a9aea8103fd3e9,Пофиксить ошибки в конфигурации Kustomize,QA,QA,True,validation
+b16c731a87074715,Настроить приватный Nexus/Artifactory,DevOps,QA,False,validation
+773e8a87e8419ad0,Провести кросс-браузерное тестирование через Sauce Labs,QA,QA,True,validation
+0782b43f80da7d3b,Подготовить dummy-модель,ML,QA,False,validation
+407dd2581c86806d,Настроить Trivy scanning в CI pipeline,DevOps,QA,False,validation
+03d9e1b9afbae7ea,Добавить поддержку service-mesh,DevOps,QA,False,validation
+a07ad9d907209e1d,Пофиксить deadlocks при конкурентных обновлениях,BackEnd,QA,False,validation
+efd61321577a9bef,Подготовить тестовые данные с edge case combinations,QA,QA,True,validation
+6051abc011a8e436,Добавить поддержку WebHID API,FrontEnd,QA,False,validation
+04b358eaa571c9c4,Реализовать кастомный тултип,FrontEnd,QA,False,validation
+801cf9e491c46224,Добавить calibration curves for probability outputs,ML,QA,False,validation
+e611682bf915735c,Реализовать chaos-тесты для отказоустойчивости,QA,QA,True,validation
+94764c1575d2b3c6,Реализовать механизм фоновой валидации данных,BackEnd,QA,False,validation
+3f0b8488b9e6c618,Настроить pipeline versioning через DVC stages,ML,QA,False,validation
+2d11710c1e03c57f,Интегрировать Lucide Icons для дизайн-системы,FrontEnd,QA,False,validation
+55179f52d016885f,Настроить automated retraining через Airflow DAGs,ML,QA,False,validation
+08decc45375181e9,Реализовать card entrance animations через motion specs,UI/UX,QA,False,validation
+758e004c62ddea88,Пофиксить auth token expiry в тестах,QA,QA,True,validation
+0c329568cca8ac01,Реализовать тесты на производительность serialization,QA,QA,True,validation
+79a56a8fcedf631f,Реализовать поиск с debounce,FrontEnd,QA,False,validation
+ea65155ff680f35e,Настроить service worker для background sync,FrontEnd,QA,False,validation
+1d6013e48b85b1d2,Реализовать параметризованные тесты через data providers,QA,QA,True,validation
+927c4605425af881,Провести аудит accessibility интерфейса,UI/UX,QA,False,validation
+d3b45afe16650690,Настроить алерты при падении coverage,QA,QA,True,validation
+386c271511314f85,Реализовать FluxCD с Kustomize overlays,DevOps,QA,False,validation
+b5abf87939d9e77a,Реализовать кастомные hover-эффекты,UI/UX,QA,False,validation
+891fde7aed108eb3,Пофиксить text truncation через ellipsis patterns,UI/UX,QA,False,validation
+974385732055268e,Пофиксить проблемы с токенами,QA,QA,True,validation
+01973dffaea55ced,Пофиксить проблемы с load balancing в тестах,QA,QA,True,validation
+47d7bc56308995cc,Пофиксить NFS storage latency через local PV,DevOps,QA,False,validation
+b54f3563cd91f7cc,Оптимизировать egress traffic через egress gateway,DevOps,QA,False,validation
+a81960d2396f3da7,Настроить rate limit per API key,BackEnd,QA,False,validation
+680104533211af15,Настроить matrix testing в CI,DevOps,QA,False,validation
+f1374820982254cb,Согласовать typography hierarchy через type scale,UI/UX,QA,False,validation
+adbab82c8e28d702,Настроить circuit breaker,BackEnd,QA,False,validation
+41ac335dafae3bf9,Настроить переменные окружения для feature flags,QA,QA,True,validation
+9e8ae2a98b62db50,Пофиксить host-port conflicts через hostNetwork tuning,DevOps,QA,False,validation
+5251a93da9b21076,Оптимизировать layout для десктопа,UI/UX,QA,False,validation
+68076f7add6bd29d,Настроить SSR для главной страницы,FrontEnd,QA,False,validation
+7582e7554937a508,Реализовать business-logic тесты,QA,QA,True,validation
+38f524a6fb7d604a,Настроить Figma media queries через responsive constraints,UI/UX,QA,False,validation
+643ea577117d55e8,Настроить дашборды Grafana для метрик,DevOps,QA,False,validation
+da86f4061465a21c,Согласовать font pairings через typography system,UI/UX,QA,False,validation
+558aa8fab5e44ab5,Пофиксить init-container ordering,DevOps,QA,False,validation
+d4a9d0edde070caf,Настроить авто-создание тестовых юзеров с разными ролями,QA,QA,True,validation
+94a5823392f34aca,Настроить мультиязычные компоненты,UI/UX,QA,False,validation
+a9aa4ee40f0bad72,Пофиксить light theme readability через contrast adjustments,UI/UX,QA,False,validation
+8126f16a6e1710f2,Подготовить макеты для пустых состояний,UI/UX,QA,False,validation
+88d116168f19f228,Оптимизировать работу с BLOB-данными,BackEnd,QA,False,validation
+8d332604fda7b50d,Настроить error boundary для fallback-экранов,FrontEnd,QA,False,validation
+dcb9b05c7b822db4,Добавить multi-region deployment,DevOps,QA,False,validation
+df7b1cea2a6406a3,Реализовать canary deployment через service mesh,DevOps,QA,False,validation
+e0cbfd5a44d109d6,Пофиксить баг с scroll snapping,FrontEnd,QA,False,validation
+0712d07581b39796,Реализовать тесты на отказоустойчивость,QA,QA,True,validation
+993345a9752a5a73,Провести stratified K-fold валидацию,ML,QA,False,validation
+9085483110c6b3cd,Реализовать тесты на валидацию rate limiting,QA,QA,True,validation
+cee3dc6677a4ae11,Пофиксить layout shift при подгрузке баннеров,FrontEnd,QA,False,validation
+25af51a48ae58930,Настроить автоматические отчеты в Microsoft Teams channels,QA,QA,True,validation
+91c33f345be735cf,Настроить инкрементальные бэкапы,DevOps,QA,False,validation
+8628042f44ee1e8a,Настроить автоматические отчеты в Jira,QA,QA,True,validation
+63a13edcfe37e5eb,Реализовать утилиты для API,QA,QA,True,validation
+b64570d8e070065c,Настроить env vars для chaos testing,QA,QA,True,validation
+9a674176abc58ba5,Реализовать feature-флаги на уровне инфраструктуры,DevOps,QA,False,validation
+09e4cd599a7ac5bd,Оптимизировать reflow/repaint cycles,FrontEnd,QA,False,validation
+89b7044a0715aeec,Провести usability тест через remote testing,QA,QA,True,validation
+b353ceef70b4eea2,Реализовать assertions для streaming responses,QA,QA,True,validation
+758c765dc058fc57,Настроить DVC remote via GCS,ML,QA,False,validation
+864023beb78277ca,Настроить audio augmentation через SpecAugment,ML,QA,False,validation
+e9d80e6c45872978,Настроить design tokens через variables in Figma,UI/UX,QA,False,validation
+1bc8bed3798e45a7,Оптимизировать сетевой трафик через service mesh,DevOps,QA,False,validation
+73bd99e9e292b211,Настроить метрики через New Relic,QA,QA,True,validation
+50823868e0148af3,Реализовать кастомные хелперы для API,QA,QA,True,validation
+1b8b4dda41ab2e57,Оптимизировать миграции через zero-downtime,BackEnd,QA,False,validation
+5d67527996f8d68a,Добавить idempotency-key в критичные POST-ручки,BackEnd,QA,False,validation
+6b91514b194a47b1,Прикрутить TanStack Query для кеширования API,FrontEnd,QA,False,validation
+c5443e768181e460,Пофиксить deadlock в хранимых процедурах,BackEnd,QA,False,validation
+dfde63b049b56bdd,Согласовать анимации переходов,UI/UX,QA,False,validation
+317e179d3825bedb,Пофиксить проблемы с инициализацией sidecar,DevOps,QA,False,validation
+47d7b81b4b11cf76,Пофиксить race condition в тестах с file system,QA,QA,True,validation
+515d1618b8a5d4be,Реализовать аккордеон для FAQ-секции,FrontEnd,QA,False,validation
+a28d7176834125cd,Настроить image mirroring через Harbor replication,DevOps,QA,False,validation
+cafe1703cd6caaff,Провести cross-platform тестирование,QA,QA,True,validation
+448396054bf00fb0,Пофиксить memory leak в тестовых процессах,QA,QA,True,validation
+9ce8ccd895651c81,Настроить cross-env пайплайны,DevOps,QA,False,validation
+e13c0b8db4d6f0db,Добавить precision-recall кривые,ML,QA,False,validation
+227f3347c6b6d14b,Пофиксить Let's Encrypt rate limits,DevOps,QA,False,validation
+e650139c70a1bf68,Оптимизировать batch-операции,BackEnd,QA,False,validation
+101a1a151802a5de,Добавить image+text support через CLIP embeddings,ML,QA,False,validation
+5339e22c81dac349,Добавить версионирование API через URL,BackEnd,QA,False,validation
+93e82c85f975d4f0,Добавить поддержку keyboard navigation,FrontEnd,QA,False,validation
+7db1f21c0ead3298,Реализовать поиск с автокомплитом,FrontEnd,QA,False,validation
+057805939d48dca0,Настроить service discovery,DevOps,QA,False,validation
+c06213e030e1cfcf,Реализовать CQRS через materialized views,BackEnd,QA,False,validation
+08a2aa98d55b291b,Настроить registry geo-replication,DevOps,QA,False,validation
+bb783656e6d68940,Реализовать анимацию появления карточек,UI/UX,QA,False,validation
+9db31f981fe9601d,"Добавить поддержку жестов (свайпы, зум)",FrontEnd,QA,False,validation
+c0fa24b2b2f283ab,Добавить YAML validation через conftest в pre-commit,DevOps,QA,False,validation
+def32b6f32e28edd,Пофиксить баг с перекрытием хедера при скролле,FrontEnd,QA,False,validation
+30eb41e6a382a4c3,Реализовать self-healing через probes,DevOps,QA,False,validation
+61c04097286e0055,Покрыть unit-тестами слой business logic,QA,QA,True,validation
+6dc52f3bd61d2deb,Обновить иконки в дизайн-системе через icon library,UI/UX,QA,False,validation
+06566eada8111568,Настроить connection pooling для PostgreSQL,BackEnd,QA,False,validation
+7d1c82faf83d2561,Пофиксить конфликты с systemd,DevOps,QA,False,validation
+f8271fa62b706391,Реализовать health-probes для readiness/liveness,DevOps,QA,False,validation
+8a84ab5e92cb1635,Оптимизировать probe configuration,DevOps,QA,False,validation
+0663212f253d43b7,Настроить Swagger/OpenAPI документацию,BackEnd,QA,False,validation
+88a3411d585b6b96,Реализовать DR план с RTO < 1h,DevOps,QA,False,validation
+61d68073df540533,Настроить connection string fallbacks,BackEnd,QA,False,validation
+b1e90323bf47d440,Подготовить A/B тест для модели,ML,QA,False,validation
+18509268f4185761,Реализовать генерацию синтетических данных,ML,QA,False,validation
+6ec18fd7fc978a53,Реализовать автоматический rollback,DevOps,QA,False,validation
+ffbd68cc3722733f,Настроить динамический импорт библиотек,FrontEnd,QA,False,validation
+ad8cd8b97c136a9a,Добавить поддержку multipart uploads,BackEnd,QA,False,validation
+183eb0723b2f2e70,Добавить поддержку Web Push Notifications,FrontEnd,QA,False,validation
+fba476a4af40dc21,Настроить автоматическую ротацию логов,BackEnd,QA,False,validation
+748dff26ebe713d2,Пофиксить memory leak при переходе между роутами,FrontEnd,QA,False,validation
+ffad481ba4e53bb9,Реализовать GraphQL DataLoader,BackEnd,QA,False,validation
+4ac7ed45b7ddc966,Настроить Grafana дашборды с alerting rules,DevOps,QA,False,validation
+930d0f3aed96907d,Добавить request rate limiting headers,BackEnd,QA,False,validation
+e1d2f319e08a4c9f,Пофиксить нестабильность на Firefox,QA,QA,True,validation
+b9f8370431d9e26a,Реализовать custom evaluation metric via scipy.stats,ML,QA,False,validation
+9c2580e27a3e5967,Провести тест на iOS/Android эмуляторах с разными версиями,QA,QA,True,validation
+cd5a85d777ec2411,Настроить Allure отчеты с attachment-скринами,QA,QA,True,validation
+59b012736ef25cfd,Интегрировать PostHog для продуктовой аналитики,FrontEnd,QA,False,validation
+3f31003d6fe85141,Настроить автоматическую очистку старых образов,DevOps,QA,False,validation
+a1ba541981dadfb2,Добавить dark mode variants через color tokens,UI/UX,QA,False,validation
+755e892eb1992aa2,Пофиксить проблему с race condition в кэше,BackEnd,QA,False,validation
+a2e042092493b5fc,Пофиксить AppArmor,DevOps,QA,False,validation
+157568406cc680ed,Добавить hover/active состояния,UI/UX,QA,False,validation
+a21a98ed7a9b7fec,Реализовать prompt chaining для complex tasks,ML,QA,False,validation
+3ebadc3811a9657a,Подготовить моки для платежных шлюзов,QA,QA,True,validation
+b3938c32b231b5f6,Покрыть mocks для внешних API с contract testing,QA,QA,True,validation
+e3eb4aa68ea69fab,Настроить генерацию Markdown-отчетов,QA,QA,True,validation
+7ef51849f5ef7a3c,Пофиксить feature leakage через temporal validation,ML,QA,False,validation
+97a3e7063da4c67c,Пофиксить таймауты при ожидании элементов,QA,QA,True,validation
+3ceb90e86234aa0a,Добавить integrated gradients for attribution,ML,QA,False,validation
+e2f032ce81a0d504,Пофиксить table overflow issues через horizontal scrolling,UI/UX,QA,False,validation
+90576cdbbd14a874,Подготовить A/B test framework для model deployment,ML,QA,False,validation
+6bfbd62cf201beac,Провести тест совместимости с разными браузерами,QA,QA,True,validation
+1e87585d5f4cbf3a,Провести тест доступности через screen magnifier,QA,QA,True,validation
+98e766de69fba49c,Оптимизировать vacuum analyze schedule,BackEnd,QA,False,validation
+18b75e87dbd47b7d,Настроить i18n через next-intl,FrontEnd,QA,False,validation
+1416f028d3af2ac9,Добавить empty states для таблиц с actionable CTAs,UI/UX,QA,False,validation
+ac35ac5b6c273a96,Рефакторинг легаси-модуля биллинга,BackEnd,QA,False,validation
+d3e45b60be931147,Настроить version control via Git LFS,ML,QA,False,validation
+4bbd2e2a9dad75f4,Поднять тестовый кластер K8s,DevOps,QA,False,validation
+aa597b670d894905,Оптимизировать prefetching,ML,QA,False,validation
+ef2651bc8e977432,Реализовать infinite scroll с пагинацией,FrontEnd,QA,False,validation
+31da91cfa980925a,Настроить Prometheus алерты для SLO,DevOps,QA,False,validation
+1cb6d83a1620bf2c,Согласовать form validation UI через inline error patterns,UI/UX,QA,False,validation
+51b4d5e95a0dca5d,Реализовать auto-heal для подов через pod disruption budgets,DevOps,QA,False,validation
+6eb8e09d54e6ca25,Настроить CSP headers для безопасности,FrontEnd,QA,False,validation
+1d3ab727dc5526b5,Оптимизировать запросы к внешним сервисам,BackEnd,QA,False,validation
+c046f03a24edef14,Настроить experiment tracking via MLflow,ML,QA,False,validation
+a205b8da43e94083,Пофиксить проблемы с блокировками БД,QA,QA,True,validation
+2cfa6477e71bc6d1,Настроить мониторинг задержек БД,BackEnd,QA,False,validation
+8707f5e9b097ccaa,Подготовить baseline classifier через TF-IDF + LR,ML,QA,False,validation
+7f8c4577899ec7e8,Настроить параллельную работу с несколькими БД,QA,QA,True,validation
+408daa1a920e30a1,Настроить environment-specific CI,DevOps,QA,False,validation
+3050c4d9c1757f1e,Реализовать onboarding tour через hotspot annotations,UI/UX,QA,False,validation
+466fe3716979e8cf,Настроить квантование модели,ML,QA,False,validation
+13d578e56706b70a,Оптимизировать JSON parsing в middleware,BackEnd,QA,False,validation
+dde87de68d4324cb,Пофиксить timeout при загрузке heavy UI компонентов,QA,QA,True,validation
+0adb8ee929d77965,Реализовать liveness-зонды,DevOps,QA,False,validation
+13d3a3c88689b8dc,Интегрировать внешний API погоды/курсов,BackEnd,QA,False,validation
+50b2eb434b976839,Добавить поддержку streaming-инференса,ML,QA,False,validation
+70d04cf6e6abd234,Пофиксить проблемы с session management в тестах,QA,QA,True,validation
+b24512d3e079f07a,Добавить streaming inference через Kafka consumers,ML,QA,False,validation
+d7117146f6384d8e,Настроить очистку данных после прогона,QA,QA,True,validation
+60b7d5fe4d8dfbbf,Пофиксить проблемы с контрастом текста,UI/UX,QA,False,validation
+82fe7f86bbe25010,Реализовать тесты на производительность database queries,QA,QA,True,validation
+eb5f5708acf01352,Настроить env vars для staging/prod parity,QA,QA,True,validation
+16fc33e96b6107c5,Настроить деплой через ArgoCD с health checks,DevOps,QA,False,validation
+80c8e017caa5fb51,Оптимизировать model export через TorchScript,ML,QA,False,validation
+0e8da61787acce78,Согласовать field validation patterns через form design system,UI/UX,QA,False,validation
+8eba7f42a4bc24e4,Оптимизировать training via gradient checkpointing,ML,QA,False,validation
+4e460e417a77f36b,Подготовить style documentation через design system docs,UI/UX,QA,False,validation
+29c3178355a10842,Добавить ARM builds,DevOps,QA,False,validation
+28164d814c14152a,Провести WCAG contrast audit через automated tools,UI/UX,QA,False,validation
+41874ec527694e71,Добавить поддержку свайпов на мобильных,FrontEnd,QA,False,validation
+901805f8dc4e8ad3,Добавить skeleton-лоадеры для асинхронных компонентов,FrontEnd,QA,False,validation
+934163372a706ae2,Написать смоук-тесты для основного флоу,QA,QA,True,validation
+8736ff8dc2eec099,Реализовать утилиты для работы с API,QA,QA,True,validation
+fd7c02aec6ae7849,Добавить кеширование результатов сложных запросов,BackEnd,QA,False,validation
+f83bc399d81a2f90,Пофиксить pickle serialization через joblib,ML,QA,False,validation
+d85ee41cc7e4cca4,Реализовать canary deployment с Istio,DevOps,QA,False,validation
+e833f80b6133a0ad,Согласовать animation timing curves,UI/UX,QA,False,validation
+7942428453db3b5a,Провести тест на разных версиях Python,QA,QA,True,validation
+ab633b8b2eb6fb9b,Настроить визуальное тестирование через VisualEyes,QA,QA,True,validation
+996723e6f2dc5141,Настроить обработку редиректов,FrontEnd,QA,False,validation
+6cc8beafe4aaae4c,Настроить очистку кэша обучения,ML,QA,False,validation
+c8d199e9403f6452,Настроить error boundaries с fallback UI,FrontEnd,QA,False,validation
+f37461c6705d5607,Добавить поддержку GraphQL subscriptions,BackEnd,QA,False,validation
+1db1649d460530eb,Реализовать кэширование ответов через Redis,BackEnd,QA,False,validation
+d40d8ad131e30cac,Пофиксить конфликты в global test config,QA,QA,True,validation
+c87b37c970e03b35,Настроить multi-env pipelines,DevOps,QA,False,validation
+c373954c882c614d,Пофиксить проблемы с dtype mismatches,ML,QA,False,validation
+876b12b7b647cfdf,Настроить DVC remote storage,ML,QA,False,validation
+cd1585cee42a9f8f,Подготовить stakeholder presentation через annotated mockups,UI/UX,QA,False,validation
+b5abcd88a9375d71,Отрепортить баг с console.log и structured logs,QA,QA,True,validation
+8b130cc3e92275ec,Настроить Helm values для разных env,DevOps,QA,False,validation
+26663ad5c7c04a0d,Подготовить презентацию решений,UI/UX,QA,False,validation
+579d22dbc3a77613,Реализовать модальное окно подтверждения,FrontEnd,QA,False,validation
+88d4b547cb262592,Оптимизировать сетку и spacing,UI/UX,QA,False,validation
+51d930c4b654c3f2,Настроить авто-создание тестовых данных с валидацией,QA,QA,True,validation

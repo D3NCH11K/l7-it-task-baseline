@@ -1,0 +1,71 @@
+{
+  "metrics": {
+    "dataset_version": "tasks_v1.0",
+    "source_sha256": "90859af964559d1140fec298bf0b4f70e725dac3e7813e2062b2ea50fe9dfdf2",
+    "source_rows": 2333,
+    "deduplicated_rows": 2061,
+    "exact_duplicates_removed": 272,
+    "conflicting_text_groups": 0,
+    "train_n": 1442,
+    "validation_n": 309,
+    "test_n": 310,
+    "majority_class": "QA",
+    "majority_train_count": 395,
+    "accuracy": 0.2750809061488673,
+    "balanced_accuracy": 0.16666666666666666,
+    "macro_f1": 0.07191201353637902,
+    "weighted_f1": 0.11868973107946051,
+    "randomness": "baseline deterministic; seed 42 applies only to reproducible stratified split"
+  },
+  "per_class": [
+    {
+      "label": "FrontEnd",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 43
+    },
+    {
+      "label": "BackEnd",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 41
+    },
+    {
+      "label": "QA",
+      "precision": 0.2750809061488673,
+      "recall": 1.0,
+      "f1": 0.43147208121827413,
+      "support": 85
+    },
+    {
+      "label": "DevOps",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 58
+    },
+    {
+      "label": "ML",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 44
+    },
+    {
+      "label": "UI/UX",
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0,
+      "support": 38
+    }
+  ],
+  "environment": {
+    "python": "3.13.0",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3",
+    "scikit_learn": "1.9.1"
+  },
+  "output": "C:\\Daniil\\univer\\magistracy\\2_course\\Трубчик_3_сем\\Л7_Отрешко_МИК21_Проект-применение_МО_в_КИ\\results"
+}

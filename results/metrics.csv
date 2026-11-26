@@ -1,0 +1,2 @@
+dataset_version,source_sha256,source_rows,deduplicated_rows,exact_duplicates_removed,conflicting_text_groups,train_n,validation_n,test_n,majority_class,majority_train_count,accuracy,balanced_accuracy,macro_f1,weighted_f1,randomness
+tasks_v1.0,90859af964559d1140fec298bf0b4f70e725dac3e7813e2062b2ea50fe9dfdf2,2333,2061,272,0,1442,309,310,QA,395,0.2750809061488673,0.16666666666666666,0.07191201353637902,0.11868973107946051,baseline deterministic; seed 42 applies only to reproducible stratified split

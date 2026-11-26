@@ -1,0 +1,11 @@
+﻿record_id,text,true_label,predicted_label,correct,split
+06566eada8111568,Настроить connection pooling для PostgreSQL,BackEnd,QA,False,validation
+0663212f253d43b7,Настроить Swagger/OpenAPI документацию,BackEnd,QA,False,validation
+03d9e1b9afbae7ea,Добавить поддержку service-mesh,DevOps,QA,False,validation
+057805939d48dca0,Настроить service discovery,DevOps,QA,False,validation
+00b24eb8f75145f0,Настроить роутинг с динамическими импортами,FrontEnd,QA,False,validation
+04b358eaa571c9c4,Реализовать кастомный тултип,FrontEnd,QA,False,validation
+0782b43f80da7d3b,Подготовить dummy-модель,ML,QA,False,validation
+101a1a151802a5de,Добавить image+text support через CLIP embeddings,ML,QA,False,validation
+036475c0d8378a1a,Оптимизировать responsive breakpoints,UI/UX,QA,False,validation
+0886b51a912feab1,Настроить responsive UI components,UI/UX,QA,False,validation

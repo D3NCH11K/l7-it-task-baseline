@@ -1,0 +1,11 @@
+﻿record_id,text,true_label,predicted_label,correct,split
+0035e06a76c56769,Настроить cron-триггеры для nightly тестов,QA,QA,True,validation
+01973dffaea55ced,Пофиксить проблемы с load balancing в тестах,QA,QA,True,validation
+0712d07581b39796,Реализовать тесты на отказоустойчивость,QA,QA,True,validation
+0c329568cca8ac01,Реализовать тесты на производительность serialization,QA,QA,True,validation
+0f0138cde3e333a9,Провести usability тест через user recordings,QA,QA,True,validation
+100f908a6d064151,Реализовать утилиты для API performance testing,QA,QA,True,validation
+1d6013e48b85b1d2,Реализовать параметризованные тесты через data providers,QA,QA,True,validation
+1e87585d5f4cbf3a,Провести тест доступности через screen magnifier,QA,QA,True,validation
+25af51a48ae58930,Настроить автоматические отчеты в Microsoft Teams channels,QA,QA,True,validation
+308c261aebd61724,Настроить генерацию тестовых данных,QA,QA,True,validation
